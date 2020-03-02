@@ -1,5 +1,5 @@
 {
-  _config+: : {
+  _config+:: {
     namespace: 'monitoring'
   },
   // Enable or disable additional modules
