@@ -1,7 +1,7 @@
 {
+  "version": 1,
   "dependencies": [
     {
-      "name": "kube-prometheus",
       "source": {
         "git": {
           "remote": "https://github.com/coreos/kube-prometheus",
@@ -10,5 +10,6 @@
       },
       "version": "master"
     }
-  ]
+  ],
+  "legacyImports": true
 }
